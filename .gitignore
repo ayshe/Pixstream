@@ -54,3 +54,4 @@ fastlane/screenshots
 node_modules
 yarn.lock
 android/app/src/main/gen/
+authentication.js
